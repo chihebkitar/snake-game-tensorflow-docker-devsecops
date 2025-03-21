@@ -61,9 +61,3 @@ http://localhost:8080
 ## License
 This project is licensed under the [Apache 2.0 License](/LICENSE).
 
-## Contributing
-
-Since this project is intended to support a specific use case guide, contributions are limited to bug fixes or security issues. If you have a question, feel free to open an issue!
-
-If you have any questions, please contact `#docs` on the [Docker Community Slack](https://communityinviter.com/apps/dockercommunity/docker-community).
-
