@@ -191,7 +191,7 @@ function resetGame() {
     direction = {};
     document.getElementById('startGame').style.display = 'inline';
     document.getElementById('restartGame').style.display = 'none';
-    document.getElementById('modelFile').value = null;
+   // document.getElementById('modelFile').value = null;
 }
 
 
